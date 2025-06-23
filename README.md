@@ -1,2 +1,5 @@
-# ml-data-preprocessing-task-1
-A beginner-friendly project focused on data cleaning and preprocessing for machine learning. Covers essential steps including handling missing values, encoding categorical features, standardizing numerical columns, and detecting outliers using Python (Pandas, NumPy, Matplotlib, Seaborn)
+# Task_1_Data_cleaning and preprocessing
+
+The objective of Task 1 is cleaning and preparing raw data for modeling. Using the Titanic dataset as an example, this demonstrates:
+Dataset exploration ,Handling missing values using median and mode, Encoding categorical features ,Standardizing numerical features,
+Visualizing and removing outliers.
